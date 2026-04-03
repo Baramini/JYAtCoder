@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "xlocmon": "cpp",
+        "algorithm": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "system_error": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "xmemory": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "initializer_list": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "xtree": "cpp",
+        "cstdlib": "cpp",
+        "unordered_map": "cpp",
+        "queue": "cpp",
+        "xhash": "cpp",
+        "xlocinfo": "cpp",
+        "xiosbase": "cpp",
+        "fstream": "cpp"
+    }
+}
